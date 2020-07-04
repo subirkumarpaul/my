@@ -144,7 +144,7 @@ https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",60.Zee Bangla
 https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagebe2ca8f50c9c4956.png" group-title="CinemaBazar",61.Zee Bangla Cinema
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagebe2ca8f50c9c4956.png" group-title="Indian Bangla",61.Zee Bangla Cinema
 http://103.81.104.222/live/zeebanglacinema/index.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="Indian",62.ZEE TV
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
@@ -268,7 +268,7 @@ https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u
 http://103.81.104.222/live/sonyaath/index.m3u8
 #EXTINF:0 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="Indian",106.Sony SAB
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Sg5i25M.png?1" group-title="HINDI ENT.",107.SONY SAB HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sg5i25M.png?1" group-title="Indian",107.SONY SAB HD
 http://103.135.208.14/live/ibox/bd/45.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Indian",108.Sony TV
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
@@ -278,7 +278,7 @@ http://103.135.208.14/live/ibox/bd/43.m3u8
 https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:0 tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="Indian",111.Sony Max
 http://103.81.104.222/live/sonymax/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/xPHRJa9.png" group-title="Hindi",112.Sony Max HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/xPHRJa9.png" group-title="Indian",112.Sony Max HD
 http://103.135.208.14/live/ibox/bd/107.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/25ETmcG.png" group-title="English",113.Sony Pix
 http://103.81.104.222/live/sonypix/index.m3u8
@@ -319,9 +319,9 @@ https://edge01.iptv.digijadoo.net/live/dhoom_music/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/cMtjQfK.png" group-title="Indian",125.UTV Movies
 http://103.135.208.14/live/ibox/bd/7.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/LDWhU4H.png" group-title="CinemaBazar",126.UTV Action
+#EXTINF:0 tvg-logo="https://i.imgur.com/LDWhU4H.png" group-title="Indian",126.UTV Action
 http://103.81.104.222/live/utv-action/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/rYa4FjK.png" group-title="CinemaBazar",127.Blue Ant Entertainment
+#EXTINF:0 tvg-logo="https://i.imgur.com/rYa4FjK.png" group-title="English",127.Blue Ant Entertainment
 http://103.81.104.222/live/blue@ant/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="English",128.HBO
 http://103.81.104.222/live/hbo/index.m3u8
@@ -573,13 +573,13 @@ https://live.cgtn.com/cctv-d.m3u8
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
 #EXTINF:-1 tvg-id="8GT" tvg-name="TRACE Africa" tvg-language="English" tvg-logo="https://i.imgur.com/KviG5NU.png" tvg-country="ZA" tvg-url="http://i.mjh.nz/za/DStv/epg.xml.gz" group-title="Music",218.Trace Africa
 http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" tvg-country="HK" tvg-url="" group-title="Movies",219.Thrill
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" tvg-country="HK" tvg-url="" group-title="English",219.Thrill
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
-#EXTINF:-1 tvg-id="MBC Drama ARB" tvg-name="MBC Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" tvg-country="AE" tvg-url="" group-title="Movies",220.MBC Drama
+#EXTINF:-1 tvg-id="MBC Drama ARB" tvg-name="MBC Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" tvg-country="AE" tvg-url="" group-title="English",220.MBC Drama
 https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod.m3u8
 
 
-#EXTINF:-1 tvg-id="MBC" tvg-name="MBC 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" tvg-country="AE" tvg-url="" group-title="Movies",221.MBC 2 HD
+#EXTINF:-1 tvg-id="MBC" tvg-name="MBC 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" tvg-country="AE" tvg-url="" group-title="English",221.MBC 2 HD
 https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Others",222.Jhanjar HD
 http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
@@ -589,7 +589,7 @@ https://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
 https://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="English",225.MTA English
 http://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Screenshot_1-8.png" tvg-country="IN" tvg-url="" group-title="News",226.Times Now HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Screenshot_1-8.png" tvg-country="IN" tvg-url="" group-title="Others",226.Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/Ig0hIeI.jpg" group-title="",227.Madni TV
 https://playlive.goonj.pk/madnitvweb_480p/index.m3u8
