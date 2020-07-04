@@ -608,8 +608,3 @@ http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/22bFS2O.png" group-title="English",134.& Flix HD
-http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="English",133.& Prive HD
-http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
