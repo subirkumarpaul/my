@@ -127,7 +127,7 @@ http://103.205.133.19/hls/ruposhibangla.m3u8
 https://itpolly.iptv.digijadoo.net/live/tara_bangla/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/jywsIvq.png" group-title="Indian Bangla",58.DD Bangla
 https://edge01.iptv.digijadoo.net/live/dd_bangla/chunks.m3u8
-#EXTINF:0 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="Sports",59.Sangeet Bangla
+#EXTINF:0 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="Music",59.Sangeet Bangla
 https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
 
 
