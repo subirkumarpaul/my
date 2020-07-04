@@ -399,13 +399,13 @@ http://103.135.208.14/live/ibox/bd/53.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",155.Star Sports 2 HD
 http://103.135.208.14/live/ibox/bd/54.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports",156.Sony Six
-http://103.81.104.222/live/sony-six/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="Sports",157.Sony Ten 1
-http://103.81.104.222/live/sony-ten-01/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",158.Sony Ten 2
-http://103.81.104.222/live/sony-ten-02/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/E6iCIUM.png" group-title="Sports",159.Sony Ten 3
-http://103.81.104.222/live/sony-ten-03/index.m3u8
+https://sony247channels.akamaized.net/hls/live/2004805-b/SonySixSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="Sports",157.Sony Ten 1
+https://sony247channels.akamaized.net/hls/live/2004807/SonyTen1SD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sports",158.Sony Ten 2
+https://sony247channels.akamaized.net/hls/live/2004808/SonyTen2SD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/06Nj1LS.png" group-title="Sports",159.Sony Ten 3
+https://sony247channels.akamaized.net/hls/live/2004809/SonyTen3SD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne/master.m3u8
 #EXTINF:-1 group-title="Sports",160.Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/aI0KwL2.png" group-title="Sports",161.Fight Sports
