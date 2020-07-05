@@ -668,6 +668,10 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPuBXRz.jpg" group-title="Indian",255.Manoranjan Movies
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="English",256.MBC Max HD
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/diJCR16.png" group-title="English",257.MBC Action HD
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
 
 
 
