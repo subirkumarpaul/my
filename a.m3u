@@ -391,7 +391,7 @@ https://itpolly.iptv.digijadoo.net/live/nhk_world/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/csu0wPy.png" group-title="Sports",151.Ten Cricket
 http://103.81.104.222/live/ten-cricket/index.m3u8
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" group-title="Sports",152.PTV Sports
-http://103.81.104.222/live/ptv-sports/index.m3u8
+http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/IpBivcg.png" group-title="Sports",153.Sky Sports Cricket
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_skycricket/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="Sports",154.Star Sports 1
