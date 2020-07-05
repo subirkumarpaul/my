@@ -682,6 +682,10 @@ http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wl3tjXZ.png?1" group-title="English",262.Sony Movies Action
 http://51.52.156.22:8888/http/009
+#EXTINF:0 tvg-logo="https://i.imgur.com/srRLjLe.png" group-title="Music",263.MTV Beats India
+https://edge01.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/l7GkOGS.png" group-title="Kids",264.Disney Junior India
+http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8?checkedby:iptvcat.com
 
 
 
