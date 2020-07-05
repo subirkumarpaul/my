@@ -686,6 +686,10 @@ http://51.52.156.22:8888/http/009
 https://edge01.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/l7GkOGS.png" group-title="Kids",264.Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="Sports",265.Ten Sports
+http://livetv.colorsbd.com:8081/hdcrictv/ctg_tensports/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/TraceSportStars.uk.png" group-title="Sports",266.Trace Sports Stars
+https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/4/prog_index.m3u8
 
 
 
