@@ -640,7 +640,14 @@ https://cdn20.liveonlineservices.com/hls/subrang.m3u8
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MMe4JMX.png" group-title="Pakistani",241.Tag TV 2
 https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gkp0htr.jpg" group-title="English",242.Zee Cafe HD
+http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MOM8eCT.png" group-title="English",243.Comedy Central
+https://edge01.iptv.digijadoo.net/live/comedy_central/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJ8r6Rj.png" group-title="English",244.Hits
+http://45.126.83.51/uq2663/h/h37/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XNGvRJ6.jpg" group-title="English",245.CBBC
+http://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
 
 
 
