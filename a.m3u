@@ -674,7 +674,10 @@ https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
 https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",258.HBO
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English",259.MNX
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W8ZLWCE.png" group-title="English",260.FOX Action Movies
+http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 
 
 
