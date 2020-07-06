@@ -383,9 +383,8 @@ https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
 
 
 
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/csu0wPy.png" group-title="Sports",151.Ten Cricket
-http://103.81.104.222/live/ten-cricket/index.m3u8
+#EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="Sports",151.Ten Sports
+http://livetv.colorsbd.com:8081/hdcrictv/ctg_tensports/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" group-title="Sports",152.PTV Sports
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/IpBivcg.png" group-title="Sports",153.Sky Sports Cricket
@@ -670,8 +669,7 @@ https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_142
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/l7GkOGS.png" group-title="Kids",264.Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="Sports",265.Ten Sports
-http://livetv.colorsbd.com:8081/hdcrictv/ctg_tensports/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/TraceSportStars.uk.png" group-title="Sports",266.Trace Sports Stars
 https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/4/prog_index.m3u8
 
