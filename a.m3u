@@ -262,18 +262,22 @@ https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian Bangla",103.Sony Aath
 http://103.135.208.14/live/ibox/bd/36.m3u8
-#EXTINF:0 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="Indian",106.Sony SAB
+#EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian Bangla",104.Sony Aath (Backup)
+http://103.205.133.14/hls/sony8.m3u8
+#EXTINF:0 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="Indian",105.Sony SAB
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Sg5i25M.png?1" group-title="Indian",107.SONY SAB HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sg5i25M.png?1" group-title="Indian",106.SONY SAB HD
 http://103.135.208.14/live/ibox/bd/45.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Indian",108.Sony TV
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Indian",107.Sony TV
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HcUrbQp.jpg" group-title="Indian",109.SONY TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HcUrbQp.jpg" group-title="Indian",108.SONY TV HD
 http://103.135.208.14/live/ibox/bd/43.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zMgCMcI.jpg?1" group-title="Indian",110.Sony Pal
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zMgCMcI.jpg?1" group-title="Indian",109.Sony Pal
 https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:0 tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="Indian",111.Sony Max
+#EXTINF:0 tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="Indian",110.Sony Max
 https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="Indian",111.Sony Max 2 
+https://sony247channels.akamaized.net/hls/live/2009816/MAX2/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne/master_3500.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/xPHRJa9.png" group-title="Indian",112.Sony Max HD
 http://103.135.208.14/live/ibox/bd/107.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/25ETmcG.png" group-title="English",113.Sony Pix
@@ -284,7 +288,8 @@ https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=e
 https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=15
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MowVFVl.jpg" group-title="Indian",116.Sony Marathi
 https://sony247channels.akamaized.net/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wl3tjXZ.png?1" group-title="English",117.Sony Movies Action
+http://51.52.156.22:8888/http/009
 
 
 
@@ -645,8 +650,6 @@ http://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
 https://m-c09-j2apps.s.llnwi.net/hls/8010.SeriesZone.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xr6RwMC.png" group-title="English",247.KIX HD
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="Indian",248.Sony MAX 2 
-https://sony247channels.akamaized.net/hls/live/2009816/MAX2/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne/master_3500.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="Indian",250.Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
@@ -670,8 +673,7 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WSFsCqx.jpg" group-title="English",261.MGM SciFi
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wl3tjXZ.png?1" group-title="English",262.Sony Movies Action
-http://51.52.156.22:8888/http/009
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/srRLjLe.png" group-title="Music",263.MTV Beats India
 https://edge01.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/l7GkOGS.png" group-title="Kids",264.Disney Junior
