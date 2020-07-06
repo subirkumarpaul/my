@@ -569,38 +569,19 @@ https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EU
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image3110a988af3201d9.png" group-title="Others",234.Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/sARp1Xv.png" group-title="Others",235 Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image8bad0ff7b7992380.png" group-title="Others",236.BFM TV
-https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_0/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/CZa21gW.png" group-title="Others",237.Ant1
-https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/V04sNzl.png" group-title="Others",238.NBC News
-https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image981c50b08fa90648.png" group-title="Others",239.Deejay TV
-http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/GGs09Uf.png" group-title="Others",240.Spike TV
-http://87.117.234.107:1935/live/SPIKETV/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/YW4YdfC.png" group-title="Others",241.AnTV
-http://45.126.83.51/qwr9ew/s/s07/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/kF4IuuV.png" group-title="Others",242.V Channel
-http://45.126.83.51/qwr9ew/s/s41/index.m3u8
-#EXTINF:-1 tvg-id="La Chaine Normande TV FR" tvg-name="La Chaine Normande TV FR" tvg-language="French" tvg-logo="https://i.imgur.com/xDLwsbY.png" tvg-country="FR" tvg-url="" group-title="Others",243.Normande TV
-http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kappa_tv_in.png" tvg-country="IN" tvg-url="" group-title="Others",244.Kappa TV
-http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/mW6c2QR.png" group-title="Others",245.Baraza TV Greek Music Hits
-https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Others",246.Swasthik TV HD
-rtmp://flash5.chennaistream.net/swasthiktv/_definst_/mp4:swasthiktvlive
-#EXTINF:-1 tvg-id="472" tvg-name="CGTNDocumentary" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Documentary",247.CGTN Documentary
-https://live.cgtn.com/cctv-d.m3u8
-#EXTINF:-1 tvg-id="ru-tv" tvg-name="RU.TV" tvg-language="Russian" tvg-logo="https://i.imgur.com/0ujfLYr.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Others",248.RU.TV
+#EXTINF:-1 tvg-id="ru-tv" tvg-name="RU.TV" tvg-language="Russian" tvg-logo="https://i.imgur.com/0ujfLYr.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Others",235.RU.TV
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/Ig0hIeI.jpg" group-title="",249.Madni TV
-https://playlive.goonj.pk/madnitvweb_480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Others",250.Megnavision TV
-http://livestream.5centscdn.com/abr3/bbb19eae240ec100af921d511efc86a0.sdp/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/YW4YdfC.png" group-title="Others",236.AnTV
+http://45.126.83.51/qwr9ew/s/s07/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/kF4IuuV.png" group-title="Others",237.V Channel
+http://45.126.83.51/qwr9ew/s/s41/index.m3u8
+#EXTINF:-1 tvg-id="La Chaine Normande TV FR" tvg-name="La Chaine Normande TV FR" tvg-language="French" tvg-logo="https://i.imgur.com/xDLwsbY.png" tvg-country="FR" tvg-url="" group-title="Others",238.Normande TV
+http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kappa_tv_in.png" tvg-country="IN" tvg-url="" group-title="Others",239.Kappa TV
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/mW6c2QR.png" group-title="Others",240.Baraza TV Greek Music Hits
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
 
 
 
