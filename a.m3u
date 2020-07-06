@@ -325,7 +325,7 @@ http://103.81.104.222/live/utv-action/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/rYa4FjK.png" group-title="English",127.Blue Ant Entertainment
 http://103.81.104.222/live/blue@ant/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="English",128.HBO
-http://103.81.104.222/live/hbo/index.m3u8
+http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 #EXTINF:0 tvg-logo="https://i.imgur.com/IpKuSbU.png" group-title="English",129.AXN
 http://210.210.155.35/uq2663/h/h141/01.m3u8
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image029be7097122b523.png" group-title="English",130.History TV
@@ -665,8 +665,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/diJCR16.png" group-title="English",257.MBC Action HD
 https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",258.HBO
-http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English",259.MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W8ZLWCE.png" group-title="English",260.FOX Action Movies
