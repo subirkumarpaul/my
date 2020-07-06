@@ -328,6 +328,8 @@ http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/cMtjQfK.png" group-title="Indian",132.UTV Movies
 http://103.135.208.14/live/ibox/bd/7.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="Indian",133.Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="English",133.HBO
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 #EXTINF:0 tvg-logo="https://i.imgur.com/IpKuSbU.png" group-title="English",134.AXN
@@ -360,10 +362,11 @@ http://103.205.133.14/hls/b4umovies.m3u8
 https://edge01.iptv.digijadoo.net/live/comedy_central/playlist.m3u8
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imageecdc829299af4011.png" group-title="Others",148.Comedy Central HD
 https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/EV57mn3.png" group-title="Others",149.Lotus Macaw
-https://itpolly.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/5LsfS6h.png" group-title="Documentary",150.TLC HD
-https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/43lszhG.png" group-title="Indian",149.NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/NQ0WRUT.png" group-title="Indian",150.DD News
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+
 
 
 
@@ -497,10 +500,7 @@ http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Y40XFsX.png" group-title="Others",188.CBSN
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/43lszhG.png" group-title="Indian",189.NDTV 24x7
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/NQ0WRUT.png" group-title="Indian",190.DD News
-http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image3110a988af3201d9.png" group-title="Others",191.Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/sARp1Xv.png" group-title="Others",192.TV5Monde Info
@@ -615,7 +615,10 @@ https://bol.iptv.digijadoo.net/live/al_jazeera/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/cnn/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/tl4uL9a.png" group-title="Documentary",150.NHK World Japan
 https://itpolly.iptv.digijadoo.net/live/nhk_world/chunks.m3u8
-
+#EXTINF:0 tvg-logo="https://i.imgur.com/EV57mn3.png" group-title="Others",270.Lotus Macaw
+https://itpolly.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/5LsfS6h.png" group-title="Documentary",275.TLC HD
+https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
 
 
 
@@ -644,8 +647,7 @@ https://m-c09-j2apps.s.llnwi.net/hls/8010.SeriesZone.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xr6RwMC.png" group-title="English",247.KIX HD
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="Indian",250.Bflix Movies
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+
 
 
 
