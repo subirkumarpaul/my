@@ -12,7 +12,7 @@ http://ctgiptv.kitv.live:1935/live/test/test1/11.ts
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imageef52edb088b56d2f.png" group-title="Bangladeshi",6.Channel 9
 http://103.214.202.218:8081/live/channel9-15/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="Bangladeshi",7.Independent
-http://103.205.133.14/hls/independent.m3u8
+https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangladeshi",8.GTV
 http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="Bangladeshi",9.DBC News
