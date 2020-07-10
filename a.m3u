@@ -570,8 +570,8 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/7df2cXC.png" group-title="Others",228.Rai Gulp
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
-#EXTINF:-1 tvg-id="8GT" tvg-name="TRACE Africa" tvg-language="English" tvg-logo="https://i.imgur.com/KviG5NU.png" tvg-country="ZA" tvg-url="http://i.mjh.nz/za/DStv/epg.xml.gz" group-title="Music",229.Trace Africa
-http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ko2DDM.jpg" group-title="English",229.The ShortFilms
+https://m-c09-j2apps.s.llnwi.net/hls/8011.ShortFilmsTV.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="California Music Channel(CMTV)-US" tvg-name="California Music Channel(CMTV)-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Others",230.California Music Channel
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
 
