@@ -302,7 +302,7 @@ https://edge01.iptv.digijadoo.net/live/dhoom_music/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/SrDafTA.jpg" group-title="Music",121.8XM
 https://playlive.goonj.pk/8xmweb_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="Music",122.9XM
-http://103.81.104.222/live/9xm/index.m3u8
+http://103.205.133.14/hls/9xm.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea33543f260e0df6b.png" group-title="Music",123.Mastii
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/4rLo1hK.png" group-title="Music",123.B4U Music
