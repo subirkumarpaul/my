@@ -613,6 +613,8 @@ https://bol.iptv.digijadoo.net/live/dd_sports/chunks.m3u8
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:-1,Shemaroo Bollywood Premier
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1,Ads sport cricket
+http://212.47.252.54/hls/stream.m3u8
 
 
 
