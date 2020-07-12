@@ -269,6 +269,11 @@ http://51.52.156.22:8888/http/009
 
 
 
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="Indian",112.& Pictures
+http://103.205.133.14/hls/andpicture.m3u8
+
+
+
 
 
 #EXTINF:0 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="Music",119.Sangeet Bangla
@@ -317,8 +322,8 @@ http://103.205.133.14/hls/wowcinema.m3u8
 https://itpolly.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPuBXRz.jpg" group-title="Indian",139.Manoranjan Movies
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="Indian",140.& Pictures
-http://103.205.133.14/hls/andpicture.m3u8
+#EXTINF:-1,140.Shemaroo Bollywood Premier
+https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="Indian",141.Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/43lszhG.png" group-title="Indian",142.NDTV 24x7
@@ -583,8 +588,7 @@ https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagec5ef8fcea3c5fef5.png" group-title="BOL",DD Sports
 https://bol.iptv.digijadoo.net/live/dd_sports/chunks.m3u8
 
-#EXTINF:-1,Shemaroo Bollywood Premier
-https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
+
 #EXTINF:-1,Ads sport cricket
 http://212.47.252.54/hls/stream.m3u8
 
