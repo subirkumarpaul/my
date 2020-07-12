@@ -312,6 +312,15 @@ https://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
 
 
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/SpBW5W2.png" group-title="Others",130.BBC World
+https://itpolly.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/Mxm77nQ.png" group-title="Others",131.Al Jazeera
+https://bol.iptv.digijadoo.net/live/al_jazeera/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/CuqQXZz.png" group-title="Others",132.CNN
+https://itpolly.iptv.digijadoo.net/live/cnn/chunks.m3u8
+
+
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/cMtjQfK.png" group-title="Indian",133.UTV Movies
 http://103.135.208.14/live/ibox/bd/7.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/MhSG4sc.png" group-title="Others",134.B4U Movies
@@ -520,12 +529,7 @@ https://itpolly.iptv.digijadoo.net/live/channel_news/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/et_now/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/68RuKLM.png" group-title="Others",212.DW
 https://itpolly.iptv.digijadoo.net/live/dw/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/SpBW5W2.png" group-title="Others",213.BBC World
-https://itpolly.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/Mxm77nQ.png" group-title="Others",214.Al Jazeera
-https://bol.iptv.digijadoo.net/live/al_jazeera/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/CuqQXZz.png" group-title="Others",215.CNN
-https://itpolly.iptv.digijadoo.net/live/cnn/chunks.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/DD7eWYT.png" group-title="Others",216.Hits
 http://45.126.83.51/uq2663/h/h37/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="Others",217.Home & Living
