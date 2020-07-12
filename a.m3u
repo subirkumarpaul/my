@@ -263,11 +263,10 @@ http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
 http://otv.ftpbd.net/streams/109/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t3yOea1.jpg" group-title="English",110.Sony Pix HD
 http://103.205.133.19/hls/sonypix.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wl3tjXZ.png?1" group-title="English",118.Sony Movies Action
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wl3tjXZ.png?1" group-title="English",111.Sony Movies Action
 http://51.52.156.22:8888/http/009
+
+
 
 
 
