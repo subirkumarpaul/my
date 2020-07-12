@@ -428,54 +428,58 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/TraceSportStars.uk.png" group-title="Sports",169.Trace Sports Stars
 https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/4/prog_index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/Kxem8ae.jpg" tvg-country="AU" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Sports",170.Fox Sports
+http://103.135.208.14/live/ibox/bd/9.m3u8
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagec5ef8fcea3c5fef5.png" group-title="Sports",171.DD Sports
+https://bol.iptv.digijadoo.net/live/dd_sports/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports",172.Ads sport cricket
+http://212.47.252.54/hls/stream.m3u8
 
 
 
 
 
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/UwRuxHm.png" group-title="Pakistani",170.PTV Global
+#EXTINF:0 tvg-logo="https://i.imgur.com/UwRuxHm.png" group-title="Pakistani",173.PTV Global
 https://itpolly.iptv.digijadoo.net/live/ptv_global/chunks.m3u8
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagef40c0b94aea582b2.png" group-title="Pakistani",171.PTV Home
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagef40c0b94aea582b2.png" group-title="Pakistani",174.PTV Home
 https://itpolly.iptv.digijadoo.net/live/ptv_home/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/DEu41tl.png" group-title="Pakistani",172.PTV News
+#EXTINF:0 tvg-logo="https://i.imgur.com/DEu41tl.png" group-title="Pakistani",175.PTV News
 https://itpolly.iptv.digijadoo.net/live/ptv_news/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/K202Z16.png" group-title="Pakistani",173.PTV World
+#EXTINF:0 tvg-logo="https://i.imgur.com/K202Z16.png" group-title="Pakistani",176.PTV World
 https://itpolly.iptv.digijadoo.net/live/ptv_world/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/ceKNpFn.png" group-title="Pakistani",174.Ary Asia
+#EXTINF:0 tvg-logo="https://i.imgur.com/ceKNpFn.png" group-title="Pakistani",177.Ary Asia
 https://itpolly.iptv.digijadoo.net/live/ary_asia/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/sVD7BJX.png" group-title="Pakistani",175.Ary Zindigi
+#EXTINF:0 tvg-logo="https://i.imgur.com/sVD7BJX.png" group-title="Pakistani",178.Ary Zindigi
 https://itpolly.iptv.digijadoo.net/live/ary_zindigi/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/Tz8gCCz.png" group-title="Pakistani",176.Hum Masala
+#EXTINF:0 tvg-logo="https://i.imgur.com/Tz8gCCz.png" group-title="Pakistani",179.Hum Masala
 https://itpolly.iptv.digijadoo.net/live/hum_masala/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/OA762pM.png" group-title="Pakistani",177.Aaj Entertainment
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/OA762pM.png" group-title="Pakistani",180.Aaj Entertainment
 https://playlive.goonj.pk/aajentweb_360p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/a5qvq5J.jpg" group-title="Pakistani",178.Express Entertainment
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/a5qvq5J.jpg" group-title="Pakistani",181.Express Entertainment
 https://playlive.goonj.pk/expressentweb_480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/dOIqvce.jpg" group-title="Pakistani",179.BOL Entertainment
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/dOIqvce.jpg" group-title="Pakistani",182.BOL Entertainment
 https://playlive.goonj.pk/bolentweb_480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iqbsKgG.png" group-title="Pakistani",180.BOL News
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iqbsKgG.png" group-title="Pakistani",183.BOL News
 http://playlive.goonj.pk/bolweb_480p/index.m3u8
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image88f9312753c0510c.png" group-title="Pakistani",181.Geo News
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image88f9312753c0510c.png" group-title="Pakistani",184.Geo News
 https://itpolly.iptv.digijadoo.net/live/geo_news/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HKCvQAC.jpg" group-title="Pakistani",182.Filmax
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HKCvQAC.jpg" group-title="Pakistani",185.Filmax
 http://playlive.goonj.pk/filmaxweb_480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/q85u7XS.jpg" group-title="Pakistani",183.Film World
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/q85u7XS.jpg" group-title="Pakistani",186.Film World
 http://playlive.goonj.pk/filmworldweb_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k4RmfYW.png" group-title="Pakistani",184.Kay 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4RmfYW.png" group-title="Pakistani",187.Kay 2
 http://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X7hm6yd.png" group-title="Pakistani",185.Sahar Urdu
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X7hm6yd.png" group-title="Pakistani",188.Sahar Urdu
 https://bozztv.com/36bay2/gin/giniko_saharurdu_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wKvdqI1.png" group-title="Pakistani",186.Subrang TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wKvdqI1.png" group-title="Pakistani",189.Subrang TV
 https://cdn20.liveonlineservices.com/hls/subrang.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MMe4JMX.png" group-title="Pakistani",187.Tag TV 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MMe4JMX.png" group-title="Pakistani",190.Tag TV 1
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MMe4JMX.png" group-title="Pakistani",188.Tag TV 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MMe4JMX.png" group-title="Pakistani",191.Tag TV 2
 https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5iaUgYc.jpg" group-title="Pakistani",189.LTN Family
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5iaUgYc.jpg" group-title="Pakistani",192.LTN Family
 http://playlive.goonj.pk/ltnweb_480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/XSMb4er.jpg" group-title="Others",190.Makkah Live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/XSMb4er.jpg" group-title="Others",193.Makkah Live
 https://playlive.goonj.pk/makkahweb_480p/index.m3u8
 
 
@@ -593,12 +597,7 @@ https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagec5ef8fcea3c5fef5.png" group-title="BOL",DD Sports
-https://bol.iptv.digijadoo.net/live/dd_sports/chunks.m3u8
 
-
-#EXTINF:-1,Ads sport cricket
-http://212.47.252.54/hls/stream.m3u8
 
 
 #EXTINF:0 tvg-country="BD" tvg-logo="" group-title="Kids",84.Cartoon Network HD
