@@ -271,7 +271,12 @@ http://51.52.156.22:8888/http/009
 
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="Indian",112.& Pictures
 http://103.205.133.14/hls/andpicture.m3u8
-
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="Indian",113.& Pictures HD
+http://103.135.208.14/live/ibox/bd/94.m3u8
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="Indian",114.& TV HD
+http://103.135.208.14/live/ibox/bd/47.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/22bFS2O.png" group-title="English",115.& Flix HD
+http://103.135.208.14/live/ibox/bd/125.m3u8
 
 
 
