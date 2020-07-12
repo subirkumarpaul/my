@@ -136,8 +136,6 @@ http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/uPgH7dT.png" group-title="Indian Bangla",50.Bangla Time
-http://103.205.133.14/hls/banglatime.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/HcnbnOU.png" group-title="Indian Bangla",57.Peace TV Bangla
 http://103.135.208.14/live/ibox/bd/34.m3u8
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image225ddda68974970a.png" group-title="Indian Bangla",58.Ruposhi Bangla
@@ -146,6 +144,8 @@ http://103.205.133.19/hls/ruposhibangla.m3u8
 https://itpolly.iptv.digijadoo.net/live/tara_bangla/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/jywsIvq.png" group-title="Indian Bangla",60.DD Bangla
 https://edge01.iptv.digijadoo.net/live/dd_bangla/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/uPgH7dT.png" group-title="Indian Bangla",61.Bangla Time
+http://103.205.133.14/hls/banglatime.m3u8
 
 
 
@@ -155,25 +155,21 @@ https://edge01.iptv.digijadoo.net/live/dd_bangla/chunks.m3u8
 
 
 
-
-
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",61.Zee Bangla
+#EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla",62.Zee Bangla
 https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="Indian",62.Zee TV
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="Indian",63.Zee TV
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Indian",63.Zee Cinema
+#EXTINF:0 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Indian",64.Zee Cinema
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/0Kt7S2J.png" group-title="Indian",64.Zee Action
+#EXTINF:0 tvg-logo="https://i.imgur.com/0Kt7S2J.png" group-title="Indian",65.Zee Action
 http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/O00Jsl9.png" group-title="Indian",65.Zee Bollywood
+#EXTINF:0 tvg-logo="https://i.imgur.com/O00Jsl9.png" group-title="Indian",66.Zee Bollywood
 https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/85m3yYe.jpg" group-title="Indian",66.Zee Mundo
-https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F7g0l9E.jpg" group-title="Indian",67.Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/URHYyJh.png" group-title="Indian Bangla",68.Zee 24 Ghanta
+#EXTINF:-1 tvg-logo="https://i.imgur.com/85m3yYe.jpg" group-title="Indian",68.Zee Mundo
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/URHYyJh.png" group-title="Indian Bangla",69.Zee 24 Ghanta
 http://z5amshls.akamaized.net/24ghanta/tracks-v1a1/index.m3u8
 
 
