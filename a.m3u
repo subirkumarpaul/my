@@ -508,8 +508,6 @@ http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WSFsCqx.jpg" group-title="English",204.MGM SciFi
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eHJmeku.jpg" group-title="English",202.Series Zone
-https://m-c09-j2apps.s.llnwi.net/hls/8010.SeriesZone.in_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/WaiZDkX.png" group-title="Others",205.KIX
 http://45.126.83.51/uq2663/h/h07/01.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/5LsfS6h.png" group-title="Documentary",206.TLC HD
@@ -550,8 +548,8 @@ http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 http://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/vgJnopD.png" group-title="Others",222.Cinema World
 http://45.126.83.51/uq2663/h/h04/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WZmxiFX.jpg?1" group-title="Others",223.Capital TV
-http://185.180.12.42/mylive/capital/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eHJmeku.jpg" group-title="English",223.Series Zone
+https://m-c09-j2apps.s.llnwi.net/hls/8010.SeriesZone.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Screenshot_1-8.png" tvg-country="IN" tvg-url="" group-title="Others",224.Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 #EXTINF:-1 tvg-id="Box Hits UK" tvg-name="Box Hits UK" tvg-language="English" tvg-logo="https://i.imgur.com/iv85GCc.png" tvg-country="UK" tvg-url="" group-title="Others",225.Box Hits
