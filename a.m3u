@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://bit.ly/alluepg"
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi",1.Ekattor
 http://ctgiptv.kitv.live:1935/live/test/test1/11.ts
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangladeshi",2.GTV
