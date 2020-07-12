@@ -238,37 +238,26 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8?checkedby:iptvcat.
 
 
 
-
-#EXTINF:0 tvg-country="BD" tvg-logo="" group-title="Kids",90.Tom & Jerry
-https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Br8zg1p.jpg" group-title="Kids",91.Mr Bean Show
 http://ws.flv.nimo.tv:80/live/su1599512427629r6867b820ecdb882cd1df6a2971cf8dea.flv?needwm=0
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RFVly85.png" group-title="Kids",87.POGO
-http://202.163.117.6:9981/stream/channelid/872564616
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/xeanFZ7.png" group-title="Kids",90.Aniplus
-http://45.126.83.51/dr9445/h/h02/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M3GFtld.png" group-title="Kids",91.Hungama
-http://202.163.117.6:9981/stream/channelid/1357890196
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/akaramkids1.png" tvg-country="IN" tvg-url="" group-title="Kids",92.Akaram Kidz
+#EXTINF:0 tvg-country="BD" tvg-logo="" group-title="Kids",92.Tom & Jerry
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XNGvRJ6.jpg" group-title="English",93.CBBC
+http://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/akaramkids1.png" tvg-country="IN" tvg-url="" group-title="Kids",94.Akaram Kidz
 http://akaram.zecast.net/akaram-live/akaramkidz/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/OVoCDyO.png" group-title="Kids",93.TCT Kids
+#EXTINF:0 tvg-logo="https://i.imgur.com/xeanFZ7.png" group-title="Kids",95.Aniplus
+http://45.126.83.51/dr9445/h/h02/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RFVly85.png" group-title="Kids",96.POGO
+http://202.163.117.6:9981/stream/channelid/872564616
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M3GFtld.png" group-title="Kids",97.Hungama
+http://202.163.117.6:9981/stream/channelid/1357890196
+#EXTINF:0 tvg-logo="https://i.imgur.com/OVoCDyO.png" group-title="Kids",98.TCT Kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4rEFCPQ.jpg" group-title="Kids",96.Sony Yay
-https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4rEFCPQ.jpg" group-title="Kids",97.Sony Yay HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4rEFCPQ.jpg" group-title="Kids",99.Sony Yay HD
 http://103.135.208.14/live/ibox/bd/98.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XNGvRJ6.jpg" group-title="English",99.CBBC
-http://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",100.Animal Planet
@@ -658,6 +647,10 @@ https://sony247channels.akamaized.net/hls/live/2004808/SonyTen2SD/master.m3u8?hd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/06Nj1LS.png" group-title="Sports",159.Sony Ten 3
 https://sony247channels.akamaized.net/hls/live/2004809/SonyTen3SD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne/master.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4rEFCPQ.jpg" group-title="Kids",96.Sony Yay
+https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
 
 
